@@ -1,5 +1,5 @@
 import './App.css'
-import Display from "./components/display.jsx";
+import Display from "./components/layout/display.jsx";
 
 function App() {
 
